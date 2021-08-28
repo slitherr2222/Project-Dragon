@@ -1,0 +1,13 @@
+[
+    {
+        "CharacterPart" : "Body" , 
+        "SearchBody" : "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_Photographer.CP_Body_Commando_F_Photographer",
+        "ReplaceBody" : "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_M_Ruckus.CP_Athena_Body_M_Ruckus",
+        "CharacterPart2" : "Head",
+        "SearchHead" : "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Head_F_Photographer.CP_Head_F_Photographer",
+        "ReplaceHead" : "/Game/Characters/CharacterParts/Male/Medium/Heads/CP_Athena_Head_M_Ruckus.CP_Athena_Head_M_Ruckus",
+        "CharacterPart3" : "FaceAcc",
+        "SearchFaceAcc" : "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_Photographer.CP_F_MED_Photographer",
+        "ReplaceFaceAcc" : "/Game/Characters/CharacterParts/FaceAccessories/CP_M_MED_Ruckus.CP_M_MED_Ruckus"
+    }
+]
