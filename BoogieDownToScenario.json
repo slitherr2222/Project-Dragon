@@ -1,0 +1,14 @@
+[
+    {
+        "Type" : "Animation",
+        "search Animation" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMM.Emote_Boogie_Down_CMM",
+        "replace Animation" : "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M",
+        "search Animation2" : "/Game/Animation/Game/MainPlayer/Emotes/Boogie_Down/Emote_Boogie_Down_CMF.Emote_Boogie_Down_CMF",
+        "replace Animation2" : "/Game/Animation/Game/MainPlayer/Emotes/KPop_Dance03/Emote_KPOP_Dance03_M.Emote_KPOP_Dance03_M",
+        "Type2" : "Icon",
+        "search icon" : "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BoogieDown.T-Icon-Emotes-E-BoogieDown",
+        "replace icon" : "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KPopDance03.T-Icon-Emotes-E-KPopDance03",
+        "search icon2" : "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-BoogieDown-L.T-Icon-Emotes-E-BoogieDown-L",
+        "replace icon2" : "/Game/UI/Foundation/Textures/Icons/Emotes/T-Icon-Emotes-E-KPopDance03-L.T-Icon-Emotes-E-KPopDance03-L"
+    }
+]
