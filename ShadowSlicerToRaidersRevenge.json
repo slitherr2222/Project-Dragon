@@ -1,0 +1,12 @@
+[
+    {
+        "Type" : "Mesh",
+        "SearchMesh" : "/Game/Weapons/FORT_Melee/Pickaxe_StreetFashionRed/Meshes/Demo/SK_Pickaxe_StreetFashionRed_DEMO.SK_Pickaxe_StreetFashionRed_DEMO",
+        "ReplaceMesh" : "/Game/Weapons/FORT_Melee/Meshes/SK_Pickaxe_PostApocalyptic.SK_Pickaxe_PostApocalyptic",
+        "Type2" : "Material",
+        "SearchMatOverride" : "/Game/Weapons/FORT_Melee/Pickaxe_Street_Fashion_Eclipse_Female/Materials/MI_Pickaxe_StreetFashionEclipseFemale.MI_Pickaxe_StreetFashionEclipseFemale",
+        "ReplaceMatOverride" : "/Game/Weapons/FORT_Melee/Materials/MI_FORT_Pickaxe_PostApocalyptic.MI_FORT_Pickaxe_PostApocalyptic",
+        "Name" : "Shadow Slicer",
+        "OverrideName" : "Raider's Revenge"
+    }
+]
